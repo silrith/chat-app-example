@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BmvxUvz+Su4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\druid\\OneDrive\\Desktop\\Chatting\\api\\chatting-api\\chatting-api\\chatting_api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\druid\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.11\\microsoft.aspnetcore.connections.abstractions.8.0.11.nupkg.sha512",
+    "C:\\Users\\druid\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\8.0.11\\microsoft.aspnetcore.signalr.common.8.0.11.nupkg.sha512",
+    "C:\\Users\\druid\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\8.0.11\\microsoft.aspnetcore.signalr.protocols.json.8.0.11.nupkg.sha512",
+    "C:\\Users\\druid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\druid\\.nuget\\packages\\microsoft.extensions.features\\8.0.11\\microsoft.extensions.features.8.0.11.nupkg.sha512",
+    "C:\\Users\\druid\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\druid\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\druid\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
